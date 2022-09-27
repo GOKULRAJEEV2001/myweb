@@ -1,0 +1,162 @@
+.logo{
+    width: 9vw;
+    height: 9vh; 
+    margin: auto; 
+    margin-right: 15rem;
+}
+.header{
+    padding-left: 9vw;
+    border-bottom: 3px solid orangered;
+}
+.drop-contents{
+    margin-right: 1em;
+}
+.nav-link{
+    color: black !important;
+    font-weight: 500 !important;
+}
+.main-body{
+    padding-top: 4vw;
+    width: 100%;
+    padding-left: 10px;
+    height: 560px;
+    background-color: #d5defd;
+}
+.line-design-mark{
+    width: 4vw;
+    border-bottom: 7.5px solid orangered;
+}
+.line-design-text{
+    margin-top: 3vh;
+    font-size: 21px;
+}
+.sign-up{
+    color: #222;
+    font-family: Aspira,Sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 1.3em;
+    text-align: left;
+    margin-bottom: 1rem;
+}
+.form-control{
+    width: 25rem;
+}
+.additional{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    padding-bottom: 10px;        
+}
+.login{
+    margin-top: 1vh;
+}
+.title-1{
+    text-align: center;
+    margin-top: 4rem;
+    color: #eb7100;
+    font-family: Aspira,Sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 1.3em;
+    letter-spacing: -.5px;
+}
+.title-1-1{
+    text-align: center;
+    padding-top: 3rem;
+    color: black;
+    font-family: Aspira,Sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 1.3em;
+    letter-spacing: -.5px;
+}
+.card{
+    border: 1px solid #222 !important;
+}
+.card-title{
+    color: #222;
+    font-family: Aspira,Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.3em;
+}
+.card-icon{
+    width: 8rem;
+    height: 6rem;
+    margin: auto;
+    margin-top: 5vh;
+}
+.card-icon-1{
+    width: 5.5rem;
+    height: 5rem;
+    margin: auto;
+    margin-top: 5vh;
+}
+.card-body{
+    text-align: center;
+}
+.title-2{
+    text-align: center;
+    margin-top: 3rem;
+    color: #eb7100;
+    font-family: Aspira,Sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    font-weight: 400;
+    line-height: 1.3em;
+    margin-bottom: 3rem;
+}
+.second-coloured-body{
+    background-color: rgba(254, 243, 237, 255);
+
+}
+.steps{
+    border: none !important;
+    background-color: rgba(254, 243, 237, 255);
+}
+.options{
+    padding-top: 10vh;
+    padding-left: 3vw;
+    text-align: center;
+    font-size: 30px;
+    background-color: #fafafa;
+    height: 35vh;
+}
+.option-1{
+    float: left;
+    background-color: #fafafa;
+    margin-bottom: 4vh;
+}
+.option-2{
+    float: left;
+    background-color: #fafafa;
+    margin-bottom: 4vh;
+}
+.option-3{
+    float: left;
+    background-color: #fafafa;
+    margin-bottom: 4vh;
+}
+.option-link{
+    cursor: pointer;
+    color: #EB7100;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: 5vh;
+    font-weight: 700;
+}
+.para{
+    margin-left: 6vw;
+    margin-right: 6vw;
+    font-family: Roboto,Sans-serif;
+    font-size: 16px;
+    margin-bottom: 7vh;
+}
+.last-button{
+    background-color: #eb7100;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 17px;
+    margin-bottom: 7vh;
+}
